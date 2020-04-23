@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="845d9053-517d-41df-a21b-2ca1a14deaa4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore file" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore file" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

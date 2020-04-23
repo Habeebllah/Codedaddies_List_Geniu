@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="845d9053-517d-41df-a21b-2ca1a14deaa4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1artOXhWbRPfSUs9w2ZNSkqSX9B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="845d9053-517d-41df-a21b-2ca1a14deaa4" name="Default Changelist" comment="" />
+      <created>1587505510323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587505510323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587505921932">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1587505921932" />
+    <state x="390" y="190" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587591260756">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="390" y="190" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1587591260756" />
+    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1587591680345">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1587591680345" />
+    <state x="466" y="297" key="Github.CreateGistDialog" timestamp="1587591802759">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="466" y="297" key="Github.CreateGistDialog/0.0.1280.760@0.0.1280.760" timestamp="1587591802759" />
+    <state x="143" y="25" key="SettingsEditor" timestamp="1587506326254">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="143" y="25" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1587506326254" />
+    <state x="348" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1587590705060">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="348" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1587590705060" />
+  </component>
+</project>

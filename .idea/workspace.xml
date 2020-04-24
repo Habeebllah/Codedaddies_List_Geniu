@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="845d9053-517d-41df-a21b-2ca1a14deaa4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codedaddies_list/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codedaddies_list/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codedaddies_list/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/codedaddies_list/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
